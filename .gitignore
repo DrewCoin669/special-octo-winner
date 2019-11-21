@@ -1,5 +1,7 @@
 # http://www.gnu.org/software/automake
 
+LICENSE
+
 Makefile.in
 /ar-lib
 /mdate-sh
